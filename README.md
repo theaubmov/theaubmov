@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayoub Ait Lachgar  
+# 👋 Hi, I’m Ayoub  
 
 I build **automation systems**, **workflow platforms**, and **high-quality web applications** using modern JS frameworks and JVM backend technologies.  
 My work sits at the intersection of **BPMN**, **AI automation**, and **scalable web engineering**.
