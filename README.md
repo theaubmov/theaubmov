@@ -40,5 +40,3 @@ My work sits at the intersection of **BPMN**, **AI automation**, and **scalable 
 - ✉️ Email: **ayoubaitlachgar@gmail.com**
 
 ---
-
-> _"Automation should feel like design, not maintenance."_
