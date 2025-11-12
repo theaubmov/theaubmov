@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I’m Ayoub Ait Lachgar  
 
-<!--
-**theaubmov/theaubmov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **automation systems**, **workflow platforms**, and **high-quality web applications** using modern JS frameworks and JVM backend technologies.  
+My work sits at the intersection of **BPMN**, **AI automation**, and **scalable web engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Specializations  
+- 🧩 **BPMN & Workflow Automation**  
+  Camunda 7/8 · Flowable · SpiffWorkflow · Executable BPMN design · Orchestration layers  
+
+- 🤖 **AI & Automation**  
+  n8n · Make · LangChain · OpenAI API · Intelligent routing & data pipelines  
+
+- 🧱 **No-Code Platform Development**  
+  Form builders · Workflow designers · Internal orchestration tools  
+
+---
+
+## 🧠 What I’m Exploring  
+- Cloud-native workflow engines  
+- Local-first editors and real-time collaboration  
+- AI-assisted process modeling and governance  
+
+---
+
+## 🛠 Tech Stack Overview  
+**Languages:** TypeScript · Java · JavaScript · SQL  
+**Frontend:** React · Next.js · Redux Toolkit · Tailwind CSS  
+**Backend:** Spring Boot · NestJS · Node.js  
+**Automation:** n8n · LangChain · Camunda · Flowable  
+**DevOps:** Docker · AWS · GCP · GitHub Actions  
+**Other:** BPMN.io · Storybook · Jest · Cypress  
+
+---
+
+## 📫 Let’s Connect  
+- 🌐 Website: [ayoubaitlachgar.com](https://ayoubaitlachgar.com)  
+- 💼 LinkedIn: [linkedin.com/in/ayoubaitlachgar](https://linkedin.com/in/ayoubaitlachgar)  
+- ✉️ Email: **ayoubaitlachgar@gmail.com**
+
+---
+
+> _"Automation should feel like design, not maintenance."_
