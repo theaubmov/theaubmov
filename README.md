@@ -38,5 +38,3 @@ My work sits at the intersection of **BPMN**, **AI automation**, and **scalable 
 - 🌐 Website: [ayoubaitlachgar.com](https://ayoubaitlachgar.com)  
 - 💼 LinkedIn: [linkedin.com/in/ayoubaitlachgar](https://linkedin.com/in/ayoubaitlachgar)  
 - ✉️ Email: **ayoubaitlachgar@gmail.com**
-
----
