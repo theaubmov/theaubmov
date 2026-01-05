@@ -16,7 +16,7 @@ I build workflow automation systems and BPMN platforms that actually work in pro
 - AI-assisted modeling that respects BPM discipline
 
 ## Stack
-TypeScript · Java · React · Spring Boot · Camunda · Docker · AWS
+TypeScript · Java · React · NodeJs · Spring Boot · Camunda · Docker · AWS
 
 ## Open to
 Contributing to BPMN tooling, workflow engines, or orchestration projects. If you need help with editor UX or integration patterns, let's talk.
