@@ -6,7 +6,7 @@ I build workflow automation systems and BPMN platforms that actually work in pro
 
 **Workflow orchestration**: Executable BPMN/DMN engines (Camunda, Flowable, SpiffWorkflow), custom modeling tools with bpmn.io, governance-ready templates
 
-**Product engineering**: React/TypeScript frontends, design systems, backend services (Spring Boot/NestJS), proper testing (Jest/Cypress/E2E)
+**Product engineering**: React/TypeScript frontends, design systems, backend services (Spring Boot/NestJS), testing (Jest/Cypress/E2E)
 
 **Automation**: n8n pipelines, intelligent routing, AI where it doesn't break reliability
 
